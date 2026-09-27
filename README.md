@@ -52,3 +52,16 @@ Upon opening the box to your shiny new device.
 
 *The current AYN Thor version of me writing this guide is version: 1.0.0.377*
 
+
+## First home screen and what next? - Setup via Obtainum
+After the reboot you could install everything manually if you really wanted to but that would take ages!!
+What I would recommend before starting is downloading the following applications from the PlayStore to make our lives a little easier:
+1. File explorer - Solid Explorer File Manager
+2. Mobile Browser - Vivaldi Browser
+3. Music Player - Musicolet Music Player (only if you listen to music while playing games)
+
+Next go to the following link to download the package that helps us install the rest of the apps and configurations.
+https://github.com/RJNY/Obtainium-Emulation-Pack
+Go to the latest release on the right.
+<img width="192" height="125" alt="{3F4A4C4A-BEC4-4D20-B1B4-959CF050ED37}" src="https://github.com/user-attachments/assets/9b6ba145-0f58-4d9e-a67d-cc50550cdb4a" />
+
