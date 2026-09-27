@@ -62,6 +62,18 @@ What I would recommend before starting is downloading the following applications
 
 Next go to the following link to download the package that helps us install the rest of the apps and configurations.
 https://github.com/RJNY/Obtainium-Emulation-Pack
-Go to the latest release on the right.
-<img width="192" height="125" alt="{3F4A4C4A-BEC4-4D20-B1B4-959CF050ED37}" src="https://github.com/user-attachments/assets/9b6ba145-0f58-4d9e-a67d-cc50550cdb4a" />
+Go to the latest release by clicking here:
 
+<img width="884" height="179" alt="image" src="https://github.com/user-attachments/assets/b0030254-3f54-4982-9f23-c0fae55ebcb3" />
+
+When you go to the next page you will see a lot of different files. I go and use this one:
+<img width="1224" height="70" alt="image" src="https://github.com/user-attachments/assets/a9970726-70bf-4a0d-82e6-eec287bab463" />
+After downloaded, no need to open yet, we have another file to pick up.
+
+Go back a page and go to releases on the right hand side.
+<img width="342" height="139" alt="image" src="https://github.com/user-attachments/assets/471974c0-af23-4f16-a654-6d21e6d7782a" />
+
+Click where it says releases. You should see something like this.
+<img width="913" height="278" alt="image" src="https://github.com/user-attachments/assets/2dc73147-2a28-42e6-bbbd-82fb0956ed28" />
+
+Since we have a dual screen handheld I am also going to pick up this file.
